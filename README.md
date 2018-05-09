@@ -5,7 +5,7 @@ Easily convert color codes with this simple tool.
 
 *<u>Officially discontinued as of May 9th, 2018</u>*
 
-![](https://raw.githubusercontent.com/michaelsboost/ColorConverter/gh-pages/screenshot.png)
+![](https://michaelsboost.github.io/ColorConverter/screenshot.png)
 
 License
 -------------
