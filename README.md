@@ -12,6 +12,14 @@ License
 
 MIT
 
+Availability
+-------------
+
+[Android](https://play.google.com/store/apps/details?id=com.webdgap.colorconverter)
+
+If you want this as a desktop application you can use
+[WebDGap](http://michaelsboost.github.io/WebDGap)  
+
 Tech
 -------------
 
